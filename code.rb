@@ -34,4 +34,5 @@ end
 caesar_cipher("a", 2)
 caesar_cipher("z", 2)
 caesar_cipher("Caesar", 2)
+caesar_cipher("New York Islanders", 7)
 caesar_cipher("Why it is inconceivable!", 5)
